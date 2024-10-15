@@ -7,3 +7,5 @@ GRid 3 X 3
 Player one X
 
 Another player O
+
+Game close once player win
